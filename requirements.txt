@@ -23,7 +23,7 @@ protobuf==7.36.2
 Pygments==2.21.0
 requests==2.34.2
 rich==15.0.0
-setuptools==84.0.0
+setuptools==84.1.0
 six==1.17.0
 tensorflow==2.21.0
 termcolor==3.3.0
